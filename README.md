@@ -45,8 +45,4 @@ To use these themes you will need the Stylish browser extension for your chosen 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-
-install notes coming soon!:
-
-```install notes coming soon!
-```
+To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from default.css and save, done.
