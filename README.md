@@ -17,7 +17,7 @@
 
 ## Installation
 
-Install this theme with:
+install notes coming soon!:
 
 ```install notes coming soon!
 ```
