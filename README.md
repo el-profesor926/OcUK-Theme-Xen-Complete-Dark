@@ -1,6 +1,3 @@
-# OcUK-Theme-XEN-Complete-Dark-by-wiiija
-
-
 <h1 align="center">
 	A minimal white OcUK Theme Designed by Wiiija
 </h1>
