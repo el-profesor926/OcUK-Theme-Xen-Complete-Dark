@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-* Author - 
-* Date Created - 
+* Author - <br />
+* Date Created - <br/>
 * Applies To - overclockers
 </p>
 
