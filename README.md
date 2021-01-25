@@ -30,7 +30,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 
 ## Issues
 If you have any problems with this theme please report an issue in the github issue section for this theme.<br/>
-https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/issues
+<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/issues">/OcUK-Theme-Xen-Complete-Dark/issues</a>
 
 ## Notes
 To use these themes you will need the Stylish browser extension for your chosen browser or forks of listed browsers <br />
