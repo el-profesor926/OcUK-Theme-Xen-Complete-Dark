@@ -14,11 +14,9 @@
 	<img src="Screenshot.png" alt="Screenshot of the theme" width="550">
 </p>
 
-<p align="center">
-Author - <br />
-Date Created - <br/>
-Applies To - overclockers
-</p>
+<b>Author</b> - Sean Mayes<br />
+<b>Date Created</b> - February 14, 2017<br/>
+<b>Applies To</b> - overclockers
 
 ## Installation
 
