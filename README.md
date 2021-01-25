@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
-	<a href="https://overclockers.co.uk/forum"></a>
+	<strong>
+		<a href="https://www.overclockers.co.uk/forums/">Forum Website</a>
+		•
+		<a href="https://www.overclockers.co.uk/forums/threads/the-ocuk-new-stylish-themes-thread-2017.18769736/">Thread Discussion</a>
+	</strong>
 </p>
 
 <p align="center">
