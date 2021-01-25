@@ -1,5 +1,5 @@
 <h1 align="center">
-	A minimal white OcUK Theme Designed by Wiiija
+	A minimal dark OcUK Theme Designed by Wiiija
 </h1>
 
 <h3 align="center">
