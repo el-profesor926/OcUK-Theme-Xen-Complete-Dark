@@ -28,6 +28,9 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Date Created</b> - February 14, 2017<br/>
 <b>Applies To</b> - overclockers
 
+## Issues
+If you have any problems with this theme please report an issue in the github issue section for this theme.<br/>
+https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/issues
 
 ## Installation
 
