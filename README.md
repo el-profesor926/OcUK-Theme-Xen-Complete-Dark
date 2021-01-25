@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the theme" width="550">
+	<img src="Screenshot.png" alt="Screenshot of the theme" width="550">
 </p>
 
 
