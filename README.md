@@ -2,6 +2,13 @@
 	Xen Complete Dark OcUK Theme
 </h1>
 
+<p align="center">
+	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
+	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/raw/main/Xen-Complete-Dark.user.css"><img
+		alt="install directly with stylus"
+		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
+</p>
+
 <h3 align="center">
 	 Designed by Wiiija
 </h3>
@@ -45,4 +52,4 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from default.css and save, done.
+Once you have the Stylus browser extention installed > click the "Install directly with Stylus" icon at the top of this page.
