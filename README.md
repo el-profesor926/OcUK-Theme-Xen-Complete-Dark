@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
+	<img alt="MIT Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/raw/main/Xen-Complete-Dark.user.css"><img
 		alt="install directly with stylus"
 		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
