@@ -6,4 +6,5 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - Added fixes for Blue .breadcrumb
-- Added theme notes at the top in css
+- Added theme notes at the top in css.
+- Coloured quick reply toolbar to match theme.
