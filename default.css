@@ -1221,4 +1221,9 @@ a[href]:hover {
 .navTabs .SplitCtrl {
     background-color: #23282b;
 }
+.breadBoxTop, 
+.breadBoxBottom,
+.PageNav {
+    background-color: #373f44 !important;
+}
 }
