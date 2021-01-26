@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           OcUK-Theme-Xen-Minimal-White
+@namespace      https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark
+@version        1.0.0
+@description    A complete dark style theme for ocuk forums
+@author         Sean Myers
+==/UserStyle== */
+
 @-moz-document url-prefix("https://www.overclockers.co.uk/forums/") {
 html {
     background-color: #2e3539 !important;
