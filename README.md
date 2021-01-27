@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-	<img src="Screenshot.png" alt="Screenshot of the theme" >
+	<img src="Screenshot1.png" alt="Screenshot of the theme" >
 </p>
 
 ## Description :sparkles:
