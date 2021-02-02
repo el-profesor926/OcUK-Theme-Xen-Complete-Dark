@@ -55,5 +55,5 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 > 04. Load the ocuk forum and the layout should have changed.
 
 ## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/el-profesor926/OcUK-Theme-Xen-Complete-Dark?color=green&style=plastic) ![GitHub closed issues](https://img.shields.io/github/issues-closed/el-profesor926/OcUK-Theme-Xen-Complete-Dark?color=orange&style=plastic)
-If you have an issue, change request or comment about this theme please report it below:<br/>
+If you have an issue, change request or comments about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Complete-Dark/issues">/OcUK-Theme-Xen-Complete-Dark/issues</a>
